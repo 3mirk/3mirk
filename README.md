@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! 👋
+
+- Engineer with 10+ years in the opthalmic manufacturing industry.
+- Love utilizing data analytics to deliver tangible improvements to day-to-day industrial production.
+- Self-taught SQL and Data Visualization enthusiast. I take pride in making dashboards look sleek.
+
+
 
 <!--
 **3mirk/3mirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
