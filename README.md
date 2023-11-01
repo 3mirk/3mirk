@@ -1,6 +1,6 @@
 ### Hi there 👾
 
-- Currently working for EssilorLuxottica :)
+- Currently working for EssilorLuxottica 🕶️
 - Data-centric process engineer with 10+ years in opthalmic industry. 👓
 - SQL and Data Visualization enthusiast.
 - Google Sheets and Excel specialist. Started off with pivot tables, vlookups, and slicers :)
