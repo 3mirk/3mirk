@@ -9,11 +9,13 @@
 Visi [my portfolio](https://github.com/3mirk/Portfolio) to see a selection of data analysis projects I have worked on.
 
 
+
 ### Skill Sets & Languages
 - MS SQL, MySQL, PostgreSQL, Informix
 - PowerBI, Tableau, Qlik
 - Google Sheets, Excel
 - Python, Numpy, Matplotlib, Seaborn
+
 
 
 ### Links
