@@ -6,7 +6,15 @@ Thanks for visiting my profile. I'm a data-centric process engineer with 10+ yea
 - Google Sheets and Excel specialist. Started off with pivot tables, vlookups, and slicers :)
 - Ad-hoc data-analysis to troubleshoot & improve daily industrial production.
 
+### [Portfolio]([url](https://github.com/3mirk/Portfolio)) 👨‍🔧
+Visi [my portfolio](https://github.com/3mirk/Portfolio) to see a selection of data analysis projects I have worked on.
 
+### Skill Sets & Languages
+- MS SQL, MySQL, PostgreSQL, Informix
+- PowerBI, Tableau, Qlik
+- Google Sheets, Excel
+- Python, Numpy, Matplotlib, Seaborn
+  
 
 <!--
 **3mirk/3mirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
