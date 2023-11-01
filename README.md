@@ -1,7 +1,7 @@
-### Emir's Profile 👾
+### Hi there 👾
 
-Thanks for visiting my profile. I'm a data-centric process engineer with 10+ years in the opthalmic manufacturing industry. 👓
-
+- Currently working for EssilorLuxottica :)
+- Data-centric process engineer with 10+ years in opthalmic industry. 👓
 - SQL and Data Visualization enthusiast.
 - Google Sheets and Excel specialist. Started off with pivot tables, vlookups, and slicers :)
 - Ad-hoc data-analysis to troubleshoot & improve daily industrial production.
@@ -9,11 +9,20 @@ Thanks for visiting my profile. I'm a data-centric process engineer with 10+ yea
 ### [Portfolio]([url](https://github.com/3mirk/Portfolio)) 👨‍🔧
 Visi [my portfolio](https://github.com/3mirk/Portfolio) to see a selection of data analysis projects I have worked on.
 
+
 ### Skill Sets & Languages
 - MS SQL, MySQL, PostgreSQL, Informix
 - PowerBI, Tableau, Qlik
 - Google Sheets, Excel
 - Python, Numpy, Matplotlib, Seaborn
+
+
+### Links
+[LinkedIn]([url](https://www.linkedin.com/in/ahmetemirkara/))
+[[Tableau Public]]([url](https://public.tableau.com/app/profile/ahmet.emir.kara/vizzes))
+[Kaggle]([url](https://www.kaggle.com/ahmetemirkara))
+[HackerRank]([url](https://www.hackerrank.com/profile/ahmet_kara))
+
   
 
 <!--
