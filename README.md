@@ -1,8 +1,10 @@
-### Hello! 👋
+### Emir's Profile 👾
 
-- Engineer with 10+ years in the opthalmic manufacturing industry.
-- Love utilizing data analytics to deliver tangible improvements to day-to-day industrial production.
-- Self-taught SQL and Data Visualization enthusiast. I take pride in making dashboards look sleek.
+Thanks for visiting my profile. I'm a data-centric process engineer with 10+ years in the opthalmic manufacturing industry. 👓
+
+- SQL and Data Visualization enthusiast.
+- Google Sheets and Excel specialist. Started off with pivot tables, vlookups, and slicers :)
+- Ad-hoc data-analysis to troubleshoot & improve daily industrial production.
 
 
 
