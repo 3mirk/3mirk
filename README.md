@@ -20,7 +20,9 @@ Visi [my portfolio](https://github.com/3mirk/Portfolio) to see a selection of da
 
 ### Links
 [LinkedIn](https://www.linkedin.com/in/ahmetemirkara/)
+
 [Tableau Public](https://public.tableau.com/app/profile/ahmet.emir.kara/)
+
 [Kaggle](https://www.kaggle.com/ahmetemirkara)
 
   
