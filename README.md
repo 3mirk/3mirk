@@ -13,8 +13,8 @@ Visi [my portfolio](https://github.com/3mirk/Portfolio) to see a selection of da
 ### Skill Sets & Languages
 - MS SQL, MySQL, PostgreSQL, Informix
 - PowerBI, Tableau, Qlik
-- Google Sheets, Excel
-- Python, Numpy, Matplotlib, Seaborn
+- Google Sheets, Excel (Vlookup, Pivot Tables, Slicer)
+- Python (Pandas, Numpy, Matplotlib, Seaborn)
 
 
 
