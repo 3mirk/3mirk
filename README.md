@@ -3,19 +3,16 @@
 - Data-centric Senior Process Engineer with 10+ years in the Opthalmic Industry. 👓
 - SQL and Data Visualization enthusiast. 
 - Expert ad-hoc data Analysis to troubleshoot & improve daily industrial production.
-
-
+<br></br>
 ### [Portfolio]([url](https://github.com/3mirk/Portfolio)) 👨‍🔧
 Visit [my portfolio](https://github.com/3mirk/Portfolio) to see a selection of data analysis projects I have worked on.
 <br></br>
-
 ### Skill Sets
 - MS SQL, MySQL, PostgreSQL, Informix
 - PowerBI, Tableau, Qlik
 - Google Sheets, Excel (Vlookup, Pivot Tables, Slicer)
 - Python (Pandas, Numpy, Matplotlib, Seaborn)
 <br></br>
-
 ### Links
 [<img src="https://github.com/3mirk/3mirk/assets/106506098/80700b39-4246-4e7a-ba35-684db38170bb" width="45" height="45">](https://www.linkedin.com/in/ahmetemirkara/) 
 [<img src="https://github.com/3mirk/3mirk/assets/106506098/097f6a31-bf9f-48f0-9393-27ed6c908b73" width="45" height="45">](https://public.tableau.com/app/profile/ahmet.emir.kara/)
