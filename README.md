@@ -1,13 +1,12 @@
-### Hi there 👾
+### Hello 👾
 
-- Data-centric process engineer with 10+ years in opthalmic industry. 👓
-- SQL and Data Visualization enthusiast.
-- Google Sheets and Excel specialist. Started off with pivot tables, vlookups, and slicers :)
-- Ad-hoc data-analysis to troubleshoot & improve daily industrial production.
+- Data-centric Senior Process Engineer with 10+ years in the Opthalmic Industry. 👓
+- SQL and Data Visualization enthusiast. 
+- Expert ad-hoc data Analysis to troubleshoot & improve daily industrial production.
+- Aspiring Data Scientist
 
 ### [Portfolio]([url](https://github.com/3mirk/Portfolio)) 👨‍🔧
-Visi [my portfolio](https://github.com/3mirk/Portfolio) to see a selection of data analysis projects I have worked on.
-
+Visit [my portfolio](https://github.com/3mirk/Portfolio) to see a selection of data analysis projects I have worked on.
 
 
 ### Skill Sets & Languages
@@ -20,10 +19,10 @@ Visi [my portfolio](https://github.com/3mirk/Portfolio) to see a selection of da
 
 ### Links
 
-[<img src="https://github.com/3mirk/3mirk/assets/106506098/49bbb8c7-4b6e-47a2-b018-9fd9691ba55e" width="40" height="45">](https://www.linkedin.com/in/ahmetemirkara/) 
-[<img src="https://github.com/3mirk/3mirk/assets/106506098/1b6993bb-00b0-45d6-9bb4-35fd483f3879" width="45" height="45">](https://public.tableau.com/app/profile/ahmet.emir.kara/)
-[<img src="https://github.com/3mirk/3mirk/assets/106506098/d67c9628-046d-404c-a9ea-3c689351255f" width="45" height="45">](https://www.kaggle.com/ahmetemirkara)
-[<img src="https://github.com/3mirk/3mirk/assets/106506098/86bd00f6-b918-45f6-bdd4-310ec2f9cfe1" width="45" height="45">](https://github.com/3mirk/)
+[<img src="https://github.com/3mirk/3mirk/assets/106506098/80700b39-4246-4e7a-ba35-684db38170bb" width="45" height="45">](https://www.linkedin.com/in/ahmetemirkara/) 
+[<img src="https://github.com/3mirk/3mirk/assets/106506098/097f6a31-bf9f-48f0-9393-27ed6c908b73" width="45" height="45">](https://public.tableau.com/app/profile/ahmet.emir.kara/)
+[<img src="https://github.com/3mirk/3mirk/assets/106506098/468221e7-2920-4e7e-95e8-484973b582ad" width="45" height="45">](https://www.kaggle.com/ahmetemirkara)
+[<img src="https://github.com/3mirk/3mirk/assets/106506098/9742305f-d929-43f0-91a2-31aa9eaae0c1" width="45" height="45">](https://github.com/3mirk/)
 
 <b>
 
