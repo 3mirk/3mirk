@@ -1,8 +1,9 @@
 ### Hello 👾
 
 - Data-centric Senior Process Engineer with 10+ years in the Opthalmic Industry. 👓
+- Expert Data Analyst with ample ad-hoc troubleshooting of daily industrial production.
 - SQL and Data Visualization enthusiast. 
-- Expert ad-hoc data Analysis to troubleshoot & improve daily industrial production.
+
 <br></br>
 ### [Portfolio]([url](https://github.com/3mirk/Portfolio)) 👨‍🔧
 Visit [my portfolio](https://github.com/3mirk/Portfolio) to see a selection of data analysis projects I have worked on.
