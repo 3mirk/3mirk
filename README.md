@@ -1,7 +1,7 @@
 ### Hello 👾
 
 - Data-centric Senior Process Engineer with 10+ years in the Opthalmic Industry. 👓
-- Expert Data Analyst with ample ad-hoc troubleshooting of daily industrial production.
+- Data Analyst with an expertise in ad-hoc troubleshooting and dashboarding.
 - SQL and Data Visualization enthusiast. 
 
 <br></br>
