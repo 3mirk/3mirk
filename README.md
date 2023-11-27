@@ -25,7 +25,9 @@ Visi [my portfolio](https://github.com/3mirk/Portfolio) to see a selection of da
 
 [Kaggle](https://www.kaggle.com/ahmetemirkara)
 
-https://komarev.com/ghpvc/?username=3mirk&color=green
+![Profile views](https://komarev.com/ghpvc/?username=3mirk&color=green)
+
+
   
 
 <!--
