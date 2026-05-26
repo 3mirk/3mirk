@@ -12,7 +12,6 @@ Visit [my portfolio](https://github.com/3mirk/Portfolio) to see a selection of d
 - PowerBI, Tableau, Qlik, SAP BO
 - Python (Pandas, Numpy, Matplotlib, Seaborn)
 - Excel, Google Sheets (Vlookup, Pivot Tables, Slicers)
-
 <br></br>
 ### Links
 [<img src="https://github.com/3mirk/3mirk/assets/106506098/80700b39-4246-4e7a-ba35-684db38170bb" width="45" height="45">](https://www.linkedin.com/in/ahmetemirkara/) 
