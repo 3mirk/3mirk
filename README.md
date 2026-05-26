@@ -9,7 +9,7 @@ Visit [my portfolio](https://github.com/3mirk/Portfolio) to see a selection of d
 <br></br>
 ### Skill Sets
 - MS SQL, MySQL, PostgreSQL, Informix
-- PowerBI, DAX Studio, Tableau, Qlik, SAP BO
+- PowerBI, Tableau, Qlik, SAP BO
 - Python (Pandas, Numpy, Matplotlib, Seaborn)
 - Excel, Google Sheets (Vlookup, Pivot Tables, Slicers)
 
