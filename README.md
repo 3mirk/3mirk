@@ -1,6 +1,6 @@
 ### Bio
 
-- Data-centric Senior Process Engineer with 10+ years in the Opthalmic Industry. 👓
+- Data-centric Senior Process Engineer with 10+ years in the Opthalmic Industry.
 - Data Analyst with an expertise in ad-hoc troubleshooting and dashboarding.
 - SQL and Data Visualization enthusiast. 
 <br></br>
