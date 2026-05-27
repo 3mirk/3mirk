@@ -7,7 +7,7 @@
 ### [Portfolio]([url](https://github.com/3mirk/Portfolio)) 
 Visit [my portfolio](https://github.com/3mirk/Portfolio) to see a selection of data analysis projects I have worked on.
 <br></br>
-### Skill Sets
+### Skill Set
 - MS SQL, MySQL, PostgreSQL, Informix
 - PowerBI, Tableau, Qlik, SAP BO
 - Python (Pandas, Numpy, Matplotlib, Seaborn)
